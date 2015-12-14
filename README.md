@@ -1,0 +1,1 @@
+Download binaries or source code from [http://thp.io/2010/psmove/](http://thp.io/2010/psmove/) and set up correct pkg-config, headers and binaries locations. Also you should place dynamic libraries next to the executable.
